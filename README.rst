@@ -1,3 +1,5 @@
-See `main <./main.rst>`__
+:homepage: http://github.com/dotmpe/mkdocs/blob/master/main
 
-.. include:: main.rst
+.. homepage file for github.org
+
+See `main <./main.rst>`__.
