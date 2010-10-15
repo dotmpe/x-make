@@ -6,11 +6,17 @@
    run. Instead of 'invading' the directory with this new path, the path to 
    the Rules.mk and the generated Rules.subdirs.mk is prefixed.
 
+----
 
 .. literal:: Makefile
    :include: Makefile
 
+- `Makefile <./Makefile>`__
+
+----
 
 .. literal:: Makefile
    :include: Rules.viral.mk
+
+- `Rules.mk <./Rules.mk>`__
    
