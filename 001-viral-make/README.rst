@@ -1,4 +1,4 @@
-:Author: B. van Berkum  <dev@dotmpe.com>
+:Author: \B. van Berkum  <dev@dotmpe.com>
 :Date: 2010-10-11
 :Updated: 2010-10-15
 :Description: Experiment with a 'viral' make. One Rules.mk is symlinked for 
