@@ -4,7 +4,9 @@
 :Description: Experiment with a 'viral' make. One Rules.mk is symlinked for 
    each directory found beneath the current, including new directories each 
    run. Instead of 'invading' the directory with this new path, the path to 
-   the Rules.mk and the generated Rules.subdirs.mk is prefixed.
+   the Rules.mk and the generated Rules.subdirs.mk is prefixed. This separate 
+   tree can be used to put other generated targets too, parallel to their
+   source files.
 
 ----
 
