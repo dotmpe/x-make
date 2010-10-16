@@ -3,4 +3,4 @@
 
 .. homepage file for github.org
 
-See `main <./main.rst>`__.
+See `main`. 
